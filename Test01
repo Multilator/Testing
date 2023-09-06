@@ -1,0 +1,8 @@
+//c# stuff, average calculator. I usually make a average calculator in any new code I am learning to get to know the code a little bit.
+
+Console.WriteLine("Please enter a number: ");
+Console.ReadLine() = number1;
+Console.WriteLine("Please enter a second number: ");
+Console.ReadLine() = number2;
+Console.WriteLine("The average of those two numbers is: "(number1 + number2)/2);
+Console.Readkey();
